@@ -7,4 +7,4 @@ server:
       max: 50
       min-spare: 5
 polar:
-  greeting: Welcome to the default config book catalog!
+  greeting: Welcome to the refresh default config book catalog!
