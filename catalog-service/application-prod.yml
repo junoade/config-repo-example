@@ -7,4 +7,4 @@ server:
       max: 50
       min-spare: 5
 polar:
-  greeting: Welcome to the production catalog from the config server
+  greeting: Welcome to the refresh production catalog from the config server
