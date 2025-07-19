@@ -75,7 +75,7 @@ spring:
 
 - @EnableConfigServer 설정
 
-## Spring cloud COnfig Client 의 요청 예시
+## Spring Cloud Config Client 의 요청 예시
 
 HTTP GET localhost:8888/catalog-service/prod
 ```json
